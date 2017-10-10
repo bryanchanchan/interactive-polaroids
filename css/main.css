@@ -32,22 +32,22 @@ html {
 }
 
 .polaroid:first-child {
-  left: 30%;
-  top: 20%;
+  left: 12em;
+  top: 6em;
   z-index: 1;
   transform: rotate(-14deg);
 }
 
 .polaroid:nth-child(2) {
-  left: 40%;
-  top: 30%;
+  left: 17em;
+  top: 9em;
   z-index: 3;
   transform: rotate(8deg);
 }
 
 .polaroid:nth-child(3) {
-  left: 50%;
-  top: 20%;
+  left: 25em;
+  top: 6em;
   z-index: 2;
   transform: rotate(30deg);
 }
